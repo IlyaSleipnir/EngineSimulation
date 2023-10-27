@@ -2,7 +2,7 @@
 class Engine
 {
 public:
-	virtual void Start(double T_environment) = 0;
+	virtual void Start(const double T_environment) = 0;
 	virtual void Stop() = 0;
 	virtual double Get_T() const = 0;
 	virtual double Get_T_overheat() const = 0;

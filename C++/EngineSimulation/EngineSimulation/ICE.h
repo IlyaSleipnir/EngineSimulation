@@ -16,7 +16,7 @@ public:
 		double C);
 	~ICE();
 
-	void Start(double T_environment) override;
+	void Start(const double T_environment) override;
 	void Stop() override;
 
 	double Get_T() const override;

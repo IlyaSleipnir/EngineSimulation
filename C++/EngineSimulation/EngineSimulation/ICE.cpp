@@ -77,15 +77,15 @@ ICE::ICE(double I,
 	_C = C;
 }
 
-void ICE::Start(double T_environment)
+void ICE::Start(const double T_environment)
 {
-	double a;					// ускорение
-	double V_h;					// скорость нагрева
-	double V_c;					// скорость охлаждения
-	double V;					// текущая скорость вращения
-	double M;					// текущий крутящий момент
-	double precision = 1000;	// точность, единицы модельного времени в 1 секунде
-	double time_limit = 1000;	// ограничение времени работы
+	double a;						// ускорение
+	double V_h;						// скорость нагрева
+	double V_c;						// скорость охлаждения
+	double V;						// текущая скорость вращения
+	double M;						// текущий крутящий момент
+	const double precision = 1000;	// точность, единицы модельного времени в 1 секунде
+	const double time_limit = 1000;	// ограничение времени работы
 
 	_is_working = true;
 

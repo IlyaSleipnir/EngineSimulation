@@ -1,2 +1,8 @@
-﻿  ICE.cpp
+﻿  Engine.h
+  EngineSimulation.cpp
+  ICE.cpp
+  ICE.h
+  TestingStand.cpp
+  Создание кода...
+x64\Debug\ICE.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
   EngineSimulation.vcxproj -> G:\проекты\Forward\C++\EngineSimulation\x64\Debug\EngineSimulation.exe
