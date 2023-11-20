@@ -1,0 +1,7 @@
+G:\проекты\Forward\C#\EngineSimulation\EngineSimulation\bin\Debug\EngineSimulation.exe.config
+G:\проекты\Forward\C#\EngineSimulation\EngineSimulation\bin\Debug\EngineSimulation.exe
+G:\проекты\Forward\C#\EngineSimulation\EngineSimulation\bin\Debug\EngineSimulation.pdb
+G:\проекты\Forward\C#\EngineSimulation\EngineSimulation\obj\Debug\EngineSimulation.csproj.AssemblyReference.cache
+G:\проекты\Forward\C#\EngineSimulation\EngineSimulation\obj\Debug\EngineSimulation.csproj.CoreCompileInputs.cache
+G:\проекты\Forward\C#\EngineSimulation\EngineSimulation\obj\Debug\EngineSimulation.exe
+G:\проекты\Forward\C#\EngineSimulation\EngineSimulation\obj\Debug\EngineSimulation.pdb
